@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TA_001_Forms_PracticeForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b927451-feb7-40f2-a597-c88d98f5d399</testCaseGuid>
+   <variable>
+      <defaultValue>'/Users/helenavibar/Downloads/sampleFile.jpeg'</defaultValue>
+      <description></description>
+      <id>e354cd6f-9023-4c1b-9d22-92b70c90e225</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

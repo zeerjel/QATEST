@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Menu - Select the following: Select Value (Another root option), Select One (Other),Old Style (Violet), Multi Select (Black, Blue)</description>
+   <name>WG_003_Widgets_SelectMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06ae30bd-fbab-41b6-8b0d-2ad656b74b96</testCaseGuid>
+</TestCaseEntity>

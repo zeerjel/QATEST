@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkbox - Select the Following Checkboxes: (Commands, Veu, Classified, General, Excel)
+ - Validate the selected Checkboxes.</description>
+   <name>TA_003_Elements_CheckBox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2a3d75b-9978-4596-88d7-aba25cbc1e0d</testCaseGuid>
+</TestCaseEntity>

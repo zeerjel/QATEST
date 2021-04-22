@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Browser Windows - Click each button and validate the window that opened.</description>
+   <name>BW_001_Browser_NewTab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f41c52a2-55b4-4f04-b47c-31b2b2baa989</testCaseGuid>
+</TestCaseEntity>

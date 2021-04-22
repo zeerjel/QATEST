@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Text Box - Submit and validate the submission.</description>
+   <name>TA_002_Elements_Textbox_NoInput</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95b44e75-6624-4139-abde-be33fa675444</testCaseGuid>
+</TestCaseEntity>

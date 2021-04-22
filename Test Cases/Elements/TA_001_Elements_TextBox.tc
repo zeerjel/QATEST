@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Text Box - Submit and validate the submission.</description>
+   <name>TA_001_Elements_TextBox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eae0ec39-087c-48af-a8ac-6e193e4b07b8</testCaseGuid>
+</TestCaseEntity>
